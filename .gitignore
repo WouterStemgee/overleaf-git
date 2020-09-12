@@ -3,3 +3,9 @@ data/
 
 # configuration file
 config.ini
+
+# virtual environment
+env/
+
+# vscode
+.vscode/
