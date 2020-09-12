@@ -1,0 +1,5 @@
+[overleaf]
+overleaf_project_url = https://www.overleaf.com/project/XXX
+
+[git]
+git_repository_url = https://github.com/XXX
