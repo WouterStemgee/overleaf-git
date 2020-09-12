@@ -1,1 +1,5 @@
+# temporary download location for .zip file
 data/
+
+# configuration file
+config.ini
